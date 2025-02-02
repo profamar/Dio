@@ -34,9 +34,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Contato
 
-Para dúvidas e suporte, entre em contato através do [email] ou [discord].
+Para dúvidas ou sugestões, entre em contato pelo LinkedIn: Márcia Soares
 
----
-
-Esperamos que você aproveite ao máximo esta formação e se torne um Desenvolvedor JavaScript competente e confiante!
-
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
