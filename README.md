@@ -1,4 +1,17 @@
-# Dio
+# Repositório de Formação da DIO
+
+Bem-vindo ao repositório oficial das formações da DIO! Aqui você encontrará as aulas e projetos das seguintes formações:
+
+- **Formação JavaScript Developer**
+- **Formação Docker Fundamentals**
+- **Formação Kubernetes Fundamentals**
+- **Formação Linux Fundamentals**
+
+## Estrutura do Repositório
+
+Cada formação possui sua própria pasta dedicada, contendo as aulas e projetos correspondentes. A estrutura do repositório é a seguinte:
+
+
 # Formação JavaScript Developer
 
 Bem-vindo à Formação JavaScript Developer! Nesta formação, você será guiado em uma jornada imersiva e prática desde os fundamentos do JavaScript até seu uso avançado na Web.
