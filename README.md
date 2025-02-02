@@ -9,8 +9,18 @@ Bem-vindo ao repositório oficial das formações da DIO! Aqui você encontrará
 
 ## Estrutura do Repositório
 
-Cada formação possui sua própria pasta dedicada, contendo as aulas e projetos correspondentes. A estrutura do repositório é a seguinte:
+# Estrutura do Repositório
 
+Cada formação possui sua própria pasta dedicada, contendo as aulas e projetos correspondentes.
+
+| 📁 Formação                  | 📁 Aulas | 📁 Projetos | 📄 README.md |
+|------------------------------|---------|------------|--------------|
+| **Javascript Developer**     | ✅      | ✅         | ✅           |
+| **Docker Fundamentals**      | ✅      | ✅         | ✅           |
+| **Kubernetes Fundamentals**  | ✅      | ✅         | ✅           |
+| **Linux Fundamentals**       | ✅      | ✅         | ✅           |
+
+📌 **Observação:** O repositório também contém um README principal na raiz.
 
 ## Como Começar
 
