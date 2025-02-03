@@ -1,4 +1,4 @@
-## Repositório Oficial das Formações DIO
+# Repositório Oficial das Formações DIO
 
 Bem-vindo ao repositório oficial das formações da Digital Innovation One (DIO). Neste repositório, você encontrará os materiais didáticos, aulas e projetos referentes às seguintes formações:
 
