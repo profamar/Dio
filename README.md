@@ -1,13 +1,14 @@
-# Repositório de Formação da DIO
+## Repositório Oficial das Formações DIO
 
-Bem-vindo ao repositório oficial das formações da DIO! Aqui você encontrará as aulas e projetos das seguintes formações:
+Bem-vindo ao repositório oficial das formações da Digital Innovation One (DIO). Neste repositório, você encontrará os materiais didáticos, aulas e projetos referentes às seguintes formações:
 
 - **Formação JavaScript Developer**
 - **Formação Docker Fundamentals**
 - **Formação Kubernetes Fundamentals**
 - **Formação Linux Fundamentals**
 
-## Estrutura do Repositório
+![Repositório de Formação da DIO](URL_da_Imagem)
+
 
 # Estrutura do Repositório
 
