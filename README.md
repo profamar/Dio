@@ -7,7 +7,7 @@ Bem-vindo ao repositório oficial das formações da Digital Innovation One (DIO
 - **Formação Kubernetes Fundamentals**
 - **Formação Linux Fundamentals**
 
-![Repositório de Formação da DIO](URL_da_Imagem)
+![Repositório de Formação da DIO](https://github.com/profamar/Dio/blob/main/Reposit%C3%B3rio%20de%20Forma%C3%A7%C3%A3o%20da%20DIO.png)
 
 
 # Estrutura do Repositório
